@@ -3,3 +3,4 @@
 /output
 .vscode
 /target
+Cargo.lock

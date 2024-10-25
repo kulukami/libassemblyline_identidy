@@ -1,0 +1,18 @@
+[package]
+name = "libassemblyline_identidy"
+version = "0.1.0"
+edition = "2021"
+authors = ["kulukami@gmail.com"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+[dependencies]
+libmagic_rs = { git = "https://github.com/kulukami/libmagic_rs.git", branch = 'main' }
+
+uuid = "1.10"
+
+thiserror = "1.0"
+bitflags = "2.5"
+anyhow = "1.0"
+log = { version = "0.4", features = ["std"] }

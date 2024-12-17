@@ -1,6 +1,9 @@
 /tmp
-/test
 /output
 .vscode
 /target
 Cargo.lock
+target
+target/
+
+dev.sh

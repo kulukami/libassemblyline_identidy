@@ -1,4 +1,0 @@
-[submodule "assemblyline-rust"]
-	path = assemblyline-rust
-	url = https://github.com/CybercentreCanada/assemblyline-rust.git
-	branch = main
